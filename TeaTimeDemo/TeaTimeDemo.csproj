@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\\" />
-    <Folder Include="wwwroot\\images\\product\\" />
+    <Folder Include=@"Controllers\" />
+    <Folder Include=@"wwwroot\images\product\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,7 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj" />
+    <ProjectReference Include=@"..\TeaTimeDemo.DataAccess\TeaTimeDemo.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
