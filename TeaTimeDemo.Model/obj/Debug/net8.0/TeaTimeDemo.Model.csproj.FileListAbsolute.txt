@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\bin\Debug\net8.0\TeaTimeDemo.Model.deps.json
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\bin\Debug\net8.0\TeaTimeDemo.Model.dll
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\bin\Debug\net8.0\TeaTimeDemo.Model.pdb
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\TeaTimeDemo.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\TeaTimeDemo.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\TeaTimeDemo.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\TeaTimeDemo.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\TeaTimeDemo.Model.dll
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\refint\TeaTimeDemo.Model.dll
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\TeaTimeDemo.Model.pdb
+C:\Users\User\source\repos\TeaTimeDemo\TeaTimeDemo.Model\obj\Debug\net8.0\ref\TeaTimeDemo.Model.dll
