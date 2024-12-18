@@ -51,7 +51,7 @@ namespace TeaTimeDemo.Areas.Customer.Controllers
             {
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
             }
-            TempData["success"] = "¥[¤JÁÊª«¨®¦¨¥\!";
+            TempData["success"] = "åŠ å…¥è³¼ç‰©è»ŠæˆåŠŸ!";
             _unitOfWork.Save();
             return RedirectToAction(nameof(Index));
         }
